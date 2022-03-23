@@ -24,3 +24,35 @@ My name is Liudzmila Pryshchepava. I graduated Belarusian State University, Chem
 * Git, GitHub
 
 ---
+
+#### Code example:
+I've just registered on the web-site codewars.com, so my first task was to double integer i.
+```
+function doubleInteger(i) {
+  // i will be an integer. Double it and return it.
+  return i * 2;
+}
+```
+---
+
+#### Work experience:
+I have no experience in programming yet.
+
+---
+
+#### Courses:
+* Skillbox:
+    + HTML, CSS - in progress
+    + JavaScript - in progress
+    + React - in progress
+* JavaScript Guideline on learnjavascript.ru - in progress
+* RS Schools Course «JavaScript/Front-end. Stage 1» - in progress
+
+---
+
+#### Languages:
+- Belarusian - native
+- Russian - native
+- English - C1
+- German - B1
+- French - A2
