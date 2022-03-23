@@ -1,2 +1,1 @@
-# rsschool-cv
-This repository will contain completed tasks from the course RS School.
+https://LPryshchepava.github.io/rsschool-cv/cv
