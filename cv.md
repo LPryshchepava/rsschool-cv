@@ -1,7 +1,7 @@
 # Liudzmila Pryshchepava
 
 ### RSS Student: Frontend / JavaScript
-
+![my-photo](myphoto.jpg "this is me")
 ---
 
 #### Contact information:
