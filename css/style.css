@@ -11,6 +11,7 @@ html {
 :root {
   --main-color-dark: #3a396d;
   --main-color-light: #8280e2;
+  --color-bg-border: #c4c3eb;
 }
 
 img {
@@ -48,7 +49,7 @@ section {
 }
 
 .header-container {
-    border-bottom: solid 3px #c4c3eb;
+    border-bottom: solid 3px var(--color-bg-border);
     padding-bottom: 10px;
 }
 
@@ -66,7 +67,7 @@ section {
 }
 
 .skills-container {
-    background-color: #c4c3eb;
+    background-color: var(--color-bg-border);
 }
 
 .code__wrap {
@@ -76,6 +77,6 @@ section {
 }
 
 .languages-container {
-    border-bottom: solid 3px #c4c3eb;
+    border-bottom: solid 3px var(--color-bg-border);
     padding-bottom: 10px;
 }
