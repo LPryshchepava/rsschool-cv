@@ -1,0 +1,82 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+ *::after {
+  box-sizing: inherit;
+}
+
+:root {
+  --main-color-dark: #3a396d;
+  --main-color-light: #8280e2;
+  --color-bg-border: #c4c3eb;
+}
+
+img {
+  max-width: 100%;
+}
+
+.flex {
+  display: flex;
+}
+
+.container {
+  max-width: 1770px;
+  margin: 0 30px;
+  padding: 5px 10px;
+}
+
+h1, h2, h3 {
+    color: var(--main-color-dark);
+}
+
+h1 {
+    margin-top: 50px;
+}
+
+.section-title {
+  margin: 0;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  text-decoration: underline;
+}
+
+section {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.header-container {
+    border-bottom: solid 3px var(--color-bg-border);
+    padding-bottom: 10px;
+}
+
+.header__left {
+    width: 50%;
+}
+
+.header__right {
+  width: 50%;
+  margin-top: 50px;
+  background-image: url(../myphoto.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center right;
+}
+
+.skills-container {
+    background-color: var(--color-bg-border);
+}
+
+.code__wrap {
+    width: 60%;
+    padding: 10px;
+    background-color: rgb(209, 205, 205);
+}
+
+.languages-container {
+    border-bottom: solid 3px var(--color-bg-border);
+    padding-bottom: 10px;
+}
